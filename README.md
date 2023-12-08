@@ -9,6 +9,9 @@ rover-pricing/api/getOfferDetailsView
 Hi, I have finished the code changes, fixed the compilation errors and resolved build issues.Now I am creating Db Script for the API and testing it locally
 My laptop was lagging a little and citrix was slow as well. So I closed all the unnecessary applications. I hope it frees the memory.
 
+Insert into HR.EMPLOYEES (EMPLOYEE_ID,FIRST_NAME,LAST_NAME,EMAIL,PHONE_NUMBER,HIRE_DATE,JOB_ID,SALARY,COMMISSION_PCT,MANAGER_ID,DEPARTMENT_ID) values (100,'Steven','King','SKING','515.123.4567',to_date('17-JUN-87','DD-MON-RR'),'AD_PRES',24000,null,null,90);
+Insert into HR.EMPLOYEES (EMPLOYEE_ID,FIRST_NAME,LAST_NAME,EMAIL,PHONE_NUMBER,HIRE_DATE,JOB_ID,SALARY,COMMISSION_PCT,MANAGER_ID,DEPARTMENT_ID) values (101,'Neena','Kochhar','NKOCHHAR','515.123.4568',to_date('21-SEP-89','DD-MON-RR'),'AD_VP',17000,null,100,90);
+
 
 CREATE TABLE "SCOTT"."EMP"
    (    "EMPNO" NUMBER(4,0),
