@@ -17,7 +17,7 @@ Insert into "DEVEREST"."PROMO_REQUEST" (PROMO_REQUEST_ID,MARKET_ID,MARKET_DESC,O
 SEGMENT,GROSSADDS_OR_UPGRADE,PRICE_PLANTYPE,PROMOTYPE,DEVICE_GENERATION,CHANNEL_TYPE,PROMO_CATEGORY,OFFER_EFFECTIVE_DATE,MFG_OR_OEM,DATA_TIER,ACQ_OR_RETEN,CREATED_DATE,CREATED_BY,UPDATED_DATE,UPDATED_BY
 ) values (1,4,null,null,null,null,1000,100,null,null,null,null,null,null,null,null,null,null,null,null,null,'nishant',null,'nishant')
 
-
+https://bluejeans.com/964801133/0870
 
 After review I can push my code as well and then test it
 
