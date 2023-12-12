@@ -1,5 +1,7 @@
 test
 
+select count(PROMO_REQUEST_ID) as Total from PROMO_REQUEST union all select count(status) as In Progress from PROMO_REQUEST where status=In Progress union all select count(status) as Completed from PROMO_REQUEST where status=Completed
+
 Hi Ma'am. I needed to verify below changes are as per the requirement
 
 I have shared the api details and my local ip so that ma'am can test it from her end. I needed clarification on the DB parameters which are equivalent to the UI fields so that I can map them correctly in the response. After clarification I can checkin my code for review. I also completed prerequiste VZ trainings on Learning portal
