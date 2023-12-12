@@ -5,7 +5,11 @@ Hi Ma'am. I needed to verify below changes are as per the requirement
 I have shared the api details and my local ip so that ma'am can test it from her end. I needed clarification on the DB parameters which are equivalent to the UI fields so that I can map them correctly in the response. After clarification I can checkin my code for review. I also completed prerequiste VZ trainings on Learning portal
 
 
-
+Hi Ma'am. My audio connectivity issue is resolved. The API is partially developed.
+12:30
+I need to add filter conditions to get the count in response. After that it will be completed.
+12:30
+Yesterday, I had also finished some prerequiste trainings on learning portal.
 
 
 Insert into "DEVEREST"."PROMO_REQUEST" (PROMO_REQUEST_ID,MARKET_ID,MARKET_DESC,OFFER_ID,OFFER_DESC,DEVICE_BRAND,TOTAL_NET_SALE,TOTAL_PROMO_COST,STATUS,
