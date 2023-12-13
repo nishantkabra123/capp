@@ -1,5 +1,77 @@
 test
 
+Previously the data was unavailable in the response. I have fixed this issue using enhanced for loop. I am getting the below response for UAT data.
+
+API Endpoint -
+http://localhost:8083/rover-pricing/fetchAllPromoRequests
+Response recieved -
+[
+    {
+        "PromoName": null,
+        "AssignedTo": "RA TEAM",
+        "CreatedOn": "2023-12-12 18:31:40",
+        "Status": "In Progress",
+        "PlannedRelease": null,
+        "CompletedOn": null
+    },
+    {
+        "PromoName": "test promo 3",
+        "AssignedTo": "RA TEAM",
+        "CreatedOn": "2023-12-12 23:00:54",
+        "Status": "In Progress",
+        "PlannedRelease": null,
+        "CompletedOn": null
+    },
+    {
+        "PromoName": "test promo 3",
+        "AssignedTo": "RA TEAM",
+        "CreatedOn": "2023-12-12 23:01:33",
+        "Status": "In Progress",
+        "PlannedRelease": null,
+        "CompletedOn": null
+    },
+    {
+        "PromoName": "test promo 3",
+        "AssignedTo": "RA TEAM",
+        "CreatedOn": "2023-12-12 23:08:11",
+        "Status": "In Progress",
+        "PlannedRelease": null,
+        "CompletedOn": null
+    },
+    {
+        "PromoName": null,
+        "AssignedTo": "RA TEAM",
+        "CreatedOn": "2023-12-12 21:59:13",
+        "Status": "In Progress",
+        "PlannedRelease": null,
+        "CompletedOn": null
+    },
+    {
+        "PromoName": "test promo 7",
+        "AssignedTo": "RA TEAM",
+        "CreatedOn": "2023-12-12 00:00:00",
+        "Status": "In Progress",
+        "PlannedRelease": "2023-12-10 00:00:00",
+        "CompletedOn": null
+    },
+    {
+        "PromoName": "TEST PROMO 1 ",
+        "AssignedTo": "ROVER_PRICING",
+        "CreatedOn": "2023-12-12 12:49:06",
+        "Status": "completed",
+        "PlannedRelease": "2023-12-12 12:49:06",
+        "CompletedOn": "2023-12-11 12:49:06"
+    },
+    {
+        "PromoName": "TEST PROMO 2 ",
+        "AssignedTo": "ROVER_PRICING",
+        "CreatedOn": "2023-12-12 12:49:27",
+        "Status": "completed",
+        "PlannedRelease": "2023-12-12 12:49:27",
+        "CompletedOn": "2023-12-10 12:49:27"
+    }
+]
+
 select count(PROMO_REQUEST_ID) as Total from PROMO_REQUEST union all select count(status) as In Progress from PROMO_REQUEST where status=In Progress union all select count(status) as Completed from PROMO_REQUEST where status=Completed
 
 I finished the first API. I am working on my next API.Its in progress.
