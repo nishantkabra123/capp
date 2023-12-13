@@ -1,5 +1,10 @@
 test
 
+Hi team,
+               I needed to share the status regarding my task. I have completed the code changes and tested it as well. Previously the data in the response was unavailable. So I debugged the code . I have fixed this issue using enhanced for loop. I am getting the below response for UAT data.
+API Endpoint -
+http://localhost:8083/rover-pricing/fetchAllPromoRequests
+
 Previously the data was unavailable in the response. I have fixed this issue using enhanced for loop. I am getting the below response for UAT data.
 
 API Endpoint -
