@@ -5,6 +5,11 @@ Hi team,
 API Endpoint -
 http://localhost:8083/rover-pricing/fetchAllPromoRequests
 
+Ganesh Srinivasan <ganesh.srinivasan@verizon.com>,
+Yasotha Lakshapathy <yasotha.lakshapathy@verizon.com>,
+nilesh.sharma@creospan.com
+cc:	Rohit Kotha <rohith.kotha@verizon.com
+
 Previously the data was unavailable in the response. I have fixed this issue using enhanced for loop. I am getting the below response for UAT data.
 
 API Endpoint -
