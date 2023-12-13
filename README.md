@@ -1,6 +1,6 @@
 test
 
-Hi team,
+Hi team,You had helped me understand the code flow. I got the clarity for my tasks. I appreciate the help. Thanks for
                I needed to share the status regarding my task. I have completed the code changes and tested it as well. Previously the data in the response was unavailable. So I debugged the code . I have fixed this issue using enhanced for loop. I am getting the below response for UAT data.
 API Endpoint -
 http://localhost:8083/rover-pricing/fetchAllPromoRequests
