@@ -4,6 +4,19 @@ My DB Access status is Work In Progress on AYS. Once completed I will let you kn
 
 I saw commits for the PricePlan changes, Offer Filters and Plan Group of my co-workers.
 
+Hi, I have a request
+
+
+
+
+
+11:14
+As I am implementing solutions on new system, it would be helpful if we can skip my task for tomorrow.
+11:14
+So I can understand how to be effective. It will help reduce errors and increase the efficiency.
+11:14
+I can be ready and continue as usual from Monday.
+
 As I am implementing solutions on new system, it would be helpful if we can skip my task for tomorrow so I can understand how to be effective. It will help reduce errors and increase the efficiency. I can be ready and continue as usual from Monday
 
  I got to know more about the application and functionalities.
