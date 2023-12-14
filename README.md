@@ -1,5 +1,7 @@
 test
 
+My DB Access status is Work In Progress on AYS. Once completed I will let you know
+
 I saw commits for the PricePlan changes, Offer Filters and Plan Group of my co-workers.
 
  I got to know more about the application and functionalities.
