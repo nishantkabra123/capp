@@ -1,5 +1,10 @@
 test
 
+I saw commits for the PricePlan changes, Offer Filters and Plan Group of my co-workers.
+
+ I got to know more about the application and functionalities.
+Now I am exploring the module and recent commits in the release
+
 [Yesterday 11:06 PM] Nishant Kabra
 I discussed with Rashmi about the project. She gave me the KT
 [Yesterday 11:06 PM] Nishant Kabra
