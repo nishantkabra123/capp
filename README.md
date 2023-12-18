@@ -7,7 +7,16 @@ I saw commits for the PricePlan changes, Offer Filters and Plan Group of my co-w
 Hi, I have a request
 
 
+As I am implementing solutions on new system, it would be helpful if we can skip my task for tomorrow.
 
+
+
+
+
+11:14
+So I can understand how to be effective. It will help reduce errors and increase the efficiency.
+11:14
+I can be ready and continue as usual from Monday.
 
 
 11:14
