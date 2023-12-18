@@ -10,10 +10,14 @@ yasotha.lakshapathy
 As I am implementing solutions on new system, it would be helpful if we can skip my task for tomorrow.
 
 
+Hi, I found this Log API in the About section - rover-pricing/api/LogUserActivity
+Are you aware of the Jira Ticket Number for this feature
 
 
 
-11:14
+
+
+
 So I can understand how to be effective. It will help reduce errors and increase the efficiency.
 11:14
 I can be ready and continue as usual from Monday.
