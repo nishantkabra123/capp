@@ -1,5 +1,14 @@
 test
 
+[5:22 PM] Nishant Kabra
+Hi, I am currently working on Non-OTS Activation API
+[5:22 PM] Nishant Kabra
+In afternoon, I had done the Code Analysis of similar API I needed for reference. 
+[5:23 PM] Nishant Kabra
+I have noted the different conditions such as the columns, module functions, search and sorting conditions. I am currently working on the code changes. I am developing the controllers, etc. 
+[5:23 PM] Nishant Kabra
+I will check these changes with Rohith in sometime
+
 My DB Access status is Work In Progress on AYS. Once completed I will let you know
 
 I saw commits for the PricePlan changes, Offer Filters and Plan Group of my co-workers.
