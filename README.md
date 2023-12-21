@@ -1,6 +1,18 @@
 test
 Yesterday evening after 6:15 pm I was unavailable. I had gone for the Christmas Party with our Creospan team.
-[5:22 PM] Nishant Kabra
+
+I recieved the DB Access yesterday late night, I need to verify the connectivity (edited) 
+
+
+
+
+
+10:40
+Currently, I am working on the Repository Layer and developing the DB Query
+10:40
+I have completed other changes
+
+
 Hi, I am currently working on Non-OTS Activation API
 [5:22 PM] Nishant Kabra
 In afternoon, I had done the Code Analysis of similar API I needed for reference. 
