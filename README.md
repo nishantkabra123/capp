@@ -2,11 +2,16 @@ test
 create an API to fetch only 4 rows of each Filter name from the filter default table.
 create an API to fetch 5 fields from parent and 5 from child tables.
 fetch the values based on offerId(separate the values having comma separated with the list<String> as output ).
+
  
 10:40
 Currently, I am working on the Repository Layer and developing the DB Query
 10:40
 I have completed other changes
+
+
+select pr.promo_request_id,pr.promo_name,pr.offer_id,pr.offer_desc,pr.status,pbr.PROMO_BRIEF_REQUEST_ID,pbr.DEVICES,pbr.ELIGIBILE_ORDER,pbr.STACKABILITY,pbr.ELIGIBILE_SEGMENT from promo_request pr inner join promo_brief_request pbr on 
+pr.promo_request_id=pbr.promo_request_id
 
 I am creating an API to fetch only 4 rows of each Filter name from the filter default table.
 
