@@ -1,12 +1,8 @@
 test
-Yesterday evening after 6:15 pm I was unavailable. I had gone for the Christmas Party with our Creospan team.
-
-I recieved the DB Access yesterday late night, I need to verify the connectivity (edited) 
-
-
-
-
-
+create an API to fetch only 4 rows of each Filter name from the filter default table.
+create an API to fetch 5 fields from parent and 5 from child tables.
+fetch the values based on offerId(separate the values having comma separated with the list<String> as output ).
+ 
 10:40
 Currently, I am working on the Repository Layer and developing the DB Query
 10:40
