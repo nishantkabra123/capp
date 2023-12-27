@@ -8,14 +8,25 @@ Currently, I am working on the Repository Layer and developing the DB Query
 10:40
 I have completed other changes
 
+I am creating an API to fetch only 4 rows of each Filter name from the filter default table.
 
-Hi, I am currently working on Non-OTS Activation API
-[5:22 PM] Nishant Kabra
-In afternoon, I had done the Code Analysis of similar API I needed for reference. 
-[5:23 PM] Nishant Kabra
-I have noted the different conditions such as the columns, module functions, search and sorting conditions. I am currently working on the code changes. I am developing the controllers, etc. 
-[5:23 PM] Nishant Kabra
-I will check these changes with Rohith in sometime
+I needed help with the DB Query
+ I tried using the below Query
+
+SELECT *
+FROM (
+ SELECT
+     *,
+     ROW_NUMBER() OVER (PARTITION BY user_id
+     ORDER BY start_date ASC) AS row_number
+ FROM rover_filter_default
+) t
+WHERE t.row_number = 1
+
+
+
+
+
 
 My DB Access status is Work In Progress on AYS. Once completed I will let you know
 
