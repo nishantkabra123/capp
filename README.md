@@ -3,6 +3,16 @@ create an API to fetch only 4 rows of each Filter name from the filter default t
 create an API to fetch 5 fields from parent and 5 from child tables.
 fetch the values based on offerId(separate the values having comma separated with the list<String> as output ).
 
+
+[Yesterday 8:56 PM] Nishant Kabra
+I developed DB Queries for the first 2 API and partially coded the First API
+[Yesterday 8:57 PM] Nishant Kabra
+Nilesh Sharma
+Out of 3 how many task completed
+
+It is still in progress. 
+
+
 create an API to fetch only 4 rows of each Filter name from the filter default table --
  
 SELECT * FROM ( SELECT *, ROW_NUMBER() OVER (PARTITION BY user_id ORDER BY start_date ASC) AS row_number FROM rover_filter_default ) t WHERE t.row_number = 1
