@@ -1,16 +1,7 @@
-test
-create an API to fetch only 4 rows of each Filter name from the filter default table.
-create an API to fetch 5 fields from parent and 5 from child tables.
-fetch the values based on offerId(separate the values having comma separated with the list<String> as output ).
-
-
-[Yesterday 8:56 PM] Nishant Kabra
-I developed DB Queries for the first 2 API and partially coded the First API
-[Yesterday 8:57 PM] Nishant Kabra
-Nilesh Sharma
-Out of 3 how many task completed
-
-It is still in progress. 
+[Yesterday 7:57 PM] Nishant Kabra
+I have completed my code changes for the first 2 API. I have to test it. 
+[Yesterday 7:57 PM] Nishant Kabra
+I have also informed the team for review
 
 
 create an API to fetch only 4 rows of each Filter name from the filter default table --
