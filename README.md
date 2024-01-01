@@ -6,8 +6,10 @@ I have also informed the team for review
 create an API to fetch only 4 rows of each Filter name from the filter default table.
 create an API to fetch 5 fields from parent and 5 from child tables.
  fetch the values based on offerId(separate the values having comma separated with the list<String> as output ).
-Prepared an Spring Boot endpoint for OTS Activation Report data  and added filter,pagination conditions in the database layer
+Developed a Spring Boot endpoint for OTS Activation Report data  and added Filter,Pagination conditions for Searching,Sorting information in the Database layer
+rover-pricing/fetchAllPromoRequests
 
+Developed a Spring Boot endpoint to Fetch All Requests info from Database which shows the Union of their Progress Status and their Count
 create an API to fetch only 4 rows of each Filter name from the filter default table --
  
 SELECT * FROM ( SELECT *, ROW_NUMBER() OVER (PARTITION BY user_id ORDER BY start_date ASC) AS row_number FROM rover_filter_default ) t WHERE t.row_number = 1
