@@ -6,7 +6,7 @@ I have also informed the team for review
 create an API to fetch only 4 rows of each Filter name from the filter default table.
 create an API to fetch 5 fields from parent and 5 from child tables.
  fetch the values based on offerId(separate the values having comma separated with the list<String> as output ).
-
+Prepared an Spring Boot endpoint for OTS Activation Report data  and added filter,pagination conditions in the database layer
 
 create an API to fetch only 4 rows of each Filter name from the filter default table --
  
